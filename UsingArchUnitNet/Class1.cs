@@ -5,6 +5,6 @@ namespace UsingArchUnitNet
 {
     public class Class1 : IBaseInterface
     {
-
+        public string PropertyExample { get; set; }
     }
 }
