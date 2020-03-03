@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace UsingArchUnitNet.Test
 {
-    public class Example3TestingInterfaceNameConvention
+    public class Example2TestingInterfaceNameConvention
     {
         private static readonly Architecture Architecture =
             new ArchLoader().LoadAssembly(typeof(Class1).Assembly)

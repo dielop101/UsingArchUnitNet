@@ -5,7 +5,7 @@ using ArchUnitNET.Fluent;
 
 namespace UsingArchUnitNet.Test
 {
-    public class Example2TestingInterfaceLayers
+    public class Example3TestingInterfaceLayers
     {
         private static readonly Architecture Architecture =
             new ArchLoader().LoadAssembly(typeof(Class1).Assembly)
