@@ -17,6 +17,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Dummy.Application\Dummy.Application.csproj" />
+    <ProjectReference Include="..\Dummy.Controllers\Dummy.Controllers.csproj" />
+    <ProjectReference Include="..\Dummy.Domain\Dummy.Domain.csproj" />
+    <ProjectReference Include="..\Dummy.Infrastructure\Dummy.Infrastructure.csproj" />
     <ProjectReference Include="..\UsingArchUnitNet\UsingArchUnitNet.csproj" />
   </ItemGroup>
 

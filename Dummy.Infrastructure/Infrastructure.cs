@@ -1,6 +1,6 @@
 ﻿namespace Dummy.Infrastructure
 {
-    public class DataAccess
+    public class Infrastructure
     {
         public Dummy.Domain.Domain Domain;
     }
